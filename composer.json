@@ -16,7 +16,7 @@
         "jenssegers/mongodb": "^3.8",
         "jiannei/laravel-enum": "^3.0",
         "jiannei/laravel-logger": "^1.2",
-        "jiannei/laravel-response": "^4.0",
+        "jiannei/laravel-response": "^5.1",
         "jiannei/laravel-schedule": "^1.0",
         "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5"
